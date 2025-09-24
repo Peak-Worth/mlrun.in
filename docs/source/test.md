@@ -89,6 +89,7 @@ Use $ or $$
 This is inline math equation $ y = x^2 $ using ``` $equation$ ```.
 
 This is centered block math equation $$ y= x^2 $$ using  ``` $$equation$$ ``` 
+
 ## 8. Collapsed Sections
 
 ``` 
@@ -98,7 +99,7 @@ This is centered block math equation $$ y= x^2 $$ using  ``` $$equation$$ ```
 You can add text within a collapsed section. 
 You can add an image or a code block, too.
 </details>
- ```
+```
 
 <details>
 
@@ -113,6 +114,7 @@ You can add an image or a code block, too.
 </details>
 
 ## 9. Code and Syntax Highlighting
+
  Use triple ticks ``` Code ``` for multiline and single ticks `Code` for inline codes. 
 
 `import os`
