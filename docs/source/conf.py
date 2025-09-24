@@ -31,9 +31,9 @@ templates_path = ['_templates']
 # -- Options for HTML output
 html_theme = 'furo'
 
- html_js_files = [
+html_js_files = [
      ("readthedocs.js", {"defer": "defer"}),
- ]
+]
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
