@@ -11,3 +11,8 @@ python:
 
 sphinx:
   configuration: docs/source/conf.py
+
+parse:
+  myst_enable_extensions:
+    - amsmath # (Optional, for advanced LaTeX math features)
+    - dollarmath
