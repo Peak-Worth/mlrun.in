@@ -85,16 +85,11 @@ $\textsf{\color{lime} Text in lime}$
 $\textsf{\color{magenta} Text in magenta}$
 
 ## 7. Maths
-Use $ or $$ 
-This is inline math equation $ y = x^2 $ using ``` $equation$ ```.
+Use `$` or `$$`
 
-This is centered block math equation 
+This is inline math equation $y = x^2$ using ``` $equation$ ```.
 
-```math
-y= x^2 
-```
-
-using  ``` $$equation$$ ``` 
+This is centered block math equation $$y= x^2$$ using  ``` $$equation$$ ``` 
 
 ## 8. Collapsed Sections
 
