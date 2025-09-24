@@ -2,3 +2,5 @@ sphinx
 furo
 myst-parser
 sphinxcontrib-katex
+myst-nb
+nbsphinx
