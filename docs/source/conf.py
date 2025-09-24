@@ -19,7 +19,6 @@ extensions = [
     'sphinx.ext.intersphinx',
     'myst_parser',
     'sphinx.ext.mathjax',
-    'sphinxcontrib.katex',
     'nbsphinx'
 ]
 
