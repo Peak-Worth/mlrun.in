@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'MLRun.in'
+copyright = '2025, tutor4u'
+author = 'tutor4u'
 
 release = '0.1'
 version = '0.1.0'
