@@ -19,7 +19,7 @@ extensions = [
     'sphinx.ext.intersphinx',
     'myst_parser',
     'sphinx.ext.mathjax',
-    'nbsphinx'
+    'myst_nb'
 ]
 
 intersphinx_mapping = {
