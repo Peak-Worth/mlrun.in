@@ -26,10 +26,11 @@ intersphinx_mapping = {
 intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
-import solar_theme
+
 # -- Options for HTML output
-html_theme = 'solar-theme'
-html_theme_path = [solar_theme.theme_path]
+import sphinx_readable_theme
+html_theme = 'readable'
+html_theme_path = [sphinx_readable_theme.get_html_theme_path()]
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
