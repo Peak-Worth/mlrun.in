@@ -125,6 +125,7 @@ Use ```diff for highlighting.
 
 ```diff
 - text in red
+
 + text in green
 ```
 
