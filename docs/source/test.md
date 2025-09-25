@@ -91,9 +91,11 @@ Use `$` or `$$`
 This is inline math equation $y = x^2$ using ``` $equation$ ```.
 
 This is centered block math equation 
-$$ 
+
+```{math}
 y= x^2 
-$$  using ```$$equation$$ ``` 
+```  
+using ```$$equation$$ ``` 
 
 ## 8. Collapsed Sections
 
