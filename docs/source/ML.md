@@ -2,7 +2,7 @@
 
 #### AI vs ML VS GenAI
 
-{mermaid}
+```{mermaid}
 %%{init: {'theme': 'neutral'}}%%
 
 flowchart LR
@@ -11,7 +11,7 @@ flowchart LR
     C["Neural Networks"] --- c1["Perceptron, MLP,  Backpropgation,  Hopfield network,  Boltzmann Machine,  Self-Organizing Maps"]
     D["Deep Learning"] --- d1["CNN, RNN, LSTM, Auto-Encoders, Encoder-Decoder, Embeddings,Transformers, GPT, BERT"]
     E["Generative AI"] --- e1["Large Language Models,  Foundational Models,  Generative Adversarial Networks 'GANs',  Prompt Tuning, RAG, Agents,  QLoRA, Langchain,  VectorDb, Vector Search"]
-
+```
     
 
 
