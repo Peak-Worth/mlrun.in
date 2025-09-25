@@ -16,4 +16,4 @@ graph TD
 
 ```
 
-[Lesson 01: Introduction to ML](L1_Introduction_to_ML.md)
+- [Lesson 01: Introduction to ML](L1_Introduction_to_ML.md)
