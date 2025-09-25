@@ -7,6 +7,7 @@
 
 #### Lesson 02: Regression in ML
 [Link](L2_1_Regression.md)
+
 ```{mermaid}
 %%{init: {'theme': 'neutral'}}%%
 
