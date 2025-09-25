@@ -5,7 +5,7 @@
 ```{mermaid}
 %%{init: {'theme': 'neutral', 'layout': 'elk'}}%%
 
-flowchart TD
+flowchart LR
     A["Artifical Intelligence"] --- a1("Speech Recognition, Robotics, Self-Driving Cars")
     B["Machine Learning"]
     C["Neural Networks"] 
