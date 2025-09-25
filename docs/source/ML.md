@@ -1,10 +1,8 @@
 # Basics of AI, ML, Gen AI
 
 ```{mermaid}
----
-config:
-  theme: forest
----
+%%{init: {'theme': 'forest'}}%%
+
 graph TD
     A[Artifical Intelligence] --> B[Machine Learning]
     B --> C[Neural Networks]
