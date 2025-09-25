@@ -73,17 +73,17 @@ Note: use color latex command and  ``` \ ``` for space.
 
 $\color{red} {Text\ in\ Red}$
 
-\[ \textsf{\color{cyan} Text in cyan} \]
+$\color{cyan} {Text\ in\ cyan}$
 
-$ {\textsf{\color{blueviolet} Text in blueviolet}} $
+$\color{blueviolet} {Text\ in\ blueviolet}$
 
-$\textsf{\color{orange} Text in orange}$
+$\color{orange} {Text\ in\ orange}$
 
-$\textsf{\color{yellow} Text in yellow}$
+$\color{yellow} {Text\ in\ yellow}$
 
-$\textsf{\color{lime} Text in lime}$
+$\color{lime} {Text\ in\ lime}$
 
-$\textsf{\color{magenta} Text in magenta}$
+$\color{magenta} {Text\ in\ magenta}$
 
 ## 7. Maths
 Use `$` or `$$`
