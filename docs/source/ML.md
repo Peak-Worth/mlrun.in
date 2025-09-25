@@ -3,11 +3,13 @@
 #### AI vs ML VS GenAI
 
 ```{mermaid}
-%%{init: {'theme': 'mc', 'layout': 'elk'}}%%
+%%{init: {'theme': 'neutral', 'layout': 'elk'}}%%
 
 flowchart TD
     A["Artifical Intelligence"] --> B["Machine Learning"] 
-    A --> a1("`Speech Recognition, \n Robotics, \n Self-Driving Cars`")
+    A --> a1("`Speech Recognition, 
+    Robotics, 
+    Self-Driving Cars`")
     B --> C["Neural Networks"] 
     B --> b1("`Linear/Logistic Regression, \n Classification, \n Decision Tree, \n Random Forest, SVM, PCA, KMeans,\n  DBScan, AdaBoost`")
     C --> D["Deep Learning"] 
