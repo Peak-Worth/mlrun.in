@@ -71,7 +71,7 @@ Note: use color latex command and  ``` \ ``` for space.
 ``` $\textsf{\color{name} Text sample}$ ``` 
 
 
-\( \textsf{\color{red} Text in Red} \)
+$\color{red} {Text\ in\ Red}$
 
 \[ \textsf{\color{cyan} Text in cyan} \]
 
