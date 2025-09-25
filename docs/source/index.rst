@@ -1,4 +1,4 @@
-Welcome to MLRun documentation!
+Welcome to MLRun!
 ===================================
 
 Here you can read and learn about AI/ML, Data concepts, GenAI, Cloud concepts, Math and Statistics.

@@ -5,4 +5,4 @@ build-backend = "flit_core.buildapi"
 [project]
 name = "MLRun.in"
 authors = [{name = "tutor4u", email = "contact@peak-worth.in"}]
-dynamic = ["version"]
+dynamic = []
