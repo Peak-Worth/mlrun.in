@@ -75,7 +75,7 @@ Note: use color latex command and  ``` \ ``` for space.
 
 \[ \textsf{\color{cyan} Text in cyan} \]
 
-$ \textsf{\color{blueviolet} Text in blueviolet}$
+$ {\textsf{\color{blueviolet} Text in blueviolet}} $
 
 $\textsf{\color{orange} Text in orange}$
 
