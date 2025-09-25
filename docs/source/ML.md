@@ -2,6 +2,11 @@
 
 #### AI vs ML VS GenAI
 
+#### Lesson 01: Introduction to ML
+[Link](L1_Introduction_to_ML.md)
+
+#### Lesson 02: Regression in ML
+[Link](L2_1_Regression.md)
 ```{mermaid}
 %%{init: {'theme': 'neutral'}}%%
 
@@ -13,8 +18,5 @@ flowchart LR
     E["Generative AI"] --- e1["Large Language Models, <br> Foundational Models, <br> Generative Adversarial <br> Networks 'GANs', <br> Prompt Tuning, RAG, <br> Agents, QLoRA, Langchain, <br> VectorDb, Vector Search"]
 ```
 
-#### Lesson 01: Introduction to ML
-[Link](L1_Introduction_to_ML.md)
 
-#### Lesson 02: Regression in ML
-[Link](L2_1_Regression.md)
+
