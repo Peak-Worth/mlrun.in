@@ -199,21 +199,25 @@ $x^{superscript}$ and  $x_{underscript}$
 
 ```
 
-> [!NOTE]
+```{note}
 > Useful information that users should know, even when skimming content. 
+```
 
-> [!TIP]
+```{tip}
 > Helpful advice for doing things better or more easily. 
+```
 
-> [!IMPORTANT]
+```{important}
 > Key information users need to know to achieve their goal. 
+```
 
-> [!WARNING]
+```{warning}
 > Urgent info that needs immediate user attention to avoid problems. 
+```
 
-> [!CAUTION]
+```{danger}
 > Advises about risks or negative outcomes of certain actions. 
-
+```
 
 ## 15. Mermaid Diagrams
 
