@@ -104,11 +104,13 @@ Issues with traditional approach
 ---
 
 ## $\color{red}ML\ Pipeline$
-```mermaid
+```{mermaid}
+%%{init: {'theme': 'default'}}%%
 flowchart LR
     A[Data Ingest] --> B[Data Pre-processing] --> C[Model Training] --> D[Model Evaluation] --> E[Model Deployment] --> F[Model Monitoring]
 ```
-```mermaid
+```{mermaid}
+%%{init: {'theme': 'default'}}%%
 flowchart LR
     A[Data Pre-processing] --> B[Data Cleaning]
     A[Data Pre-processing] --> C[Data Transformation]
