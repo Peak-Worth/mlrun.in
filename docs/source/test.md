@@ -71,7 +71,7 @@ Note: use color latex command and  ``` \ ``` for space.
 ``` $\textsf{\color{name} Text sample}$ ``` 
 
 
-$ \textsf{\color{red} Text in Red} $
+\textsf{\color{red} Text in Red}
 
 $$ \textsf{\color{cyan} Text in cyan} $$
 
@@ -91,7 +91,9 @@ Use `$` or `$$`
 This is inline math equation $y = x^2$ using ``` $equation$ ```.
 
 This is centered block math equation 
-$$ y= x^2 $$  using ```$$equation$$ ``` 
+$$ 
+y= x^2 
+$$  using ```$$equation$$ ``` 
 
 ## 8. Collapsed Sections
 
