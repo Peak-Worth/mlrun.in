@@ -12,6 +12,5 @@ Contents
 
 .. toctree::
    :maxdepth: 3
-   :hidden:
 
    Github_Markdown_Cheatsheet
