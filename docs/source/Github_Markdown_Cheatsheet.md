@@ -215,3 +215,15 @@ $x^{superscript}$ and  $x_{underscript}$
 > Advises about risks or negative outcomes of certain actions. 
 
 
+## 15. Mermaid Diagrams
+
+```{mermaid}
+flowchart LR
+  A[Read] --> C
+  B[Write] --> C
+  C(Learn) --> D{Knowledge}
+  D <--> E[Happiness]
+  D --> G[Skills]
+  D --> H[Growth]
+  D --> I[Retruns]
+```
